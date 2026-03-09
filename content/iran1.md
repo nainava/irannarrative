@@ -33,9 +33,9 @@ Chuck Schumer | Senate Minority Leader (D-NY)
   * [https://wbhm.org/npr-story/a-split-senate-votes-against-measure-to-constrain-trumps-authorities-in-iran/\#:\~:text=Y.%2C%20said%20he%20would%20not%20comment%20on,and%20what%20the%20end%20game%20is.%E2%80%9D%20Sen](https://wbhm.org/npr-story/a-split-senate-votes-against-measure-to-constrain-trumps-authorities-in-iran/#:~:text=Y.%2C%20said%20he%20would%20not%20comment%20on,and%20what%20the%20end%20game%20is.%E2%80%9D%20Sen)  
 * Shift: Forced a war powers vote, left funding on the table 
 
-Chris Coons (D \- DE) 
+Chris Coons | Senator (D - DE) 
 
-* Feb 28 statement: “I am praying for the safety of our service members and the many civilians in the Middle East in harm’s way today. President Trump’s military campaign against Iran and call for regime change are the beginning of a reckless new war of choice with no clear strategy and no clear endpoint. This is not how a democracy goes to war. Less than five years after the end of the longest war in American history, the United States is once again staring down another open-ended conflict with a hostile country in the Middle East that could cost the lives of many American service members. This is not a limited, defensive strike, but rather a full-throated declaration of war that does not clearly serve the interests of or reflect the wishes of the American people.”  
+* Feb 28: “I am praying for the safety of our service members and the many civilians in the Middle East in harm’s way today. President Trump’s military campaign against Iran and call for regime change are the beginning of a reckless new war of choice with no clear strategy and no clear endpoint. This is not how a democracy goes to war. Less than five years after the end of the longest war in American history, the United States is once again staring down another open-ended conflict with a hostile country in the Middle East that could cost the lives of many American service members. This is not a limited, defensive strike, but rather a full-throated declaration of war that does not clearly serve the interests of or reflect the wishes of the American people.”  
   * [https://www.coons.senate.gov/news/press-releases/senator-coons-statement-on-iran-strikes/](https://www.coons.senate.gov/news/press-releases/senator-coons-statement-on-iran-strikes/)   
 * Mar 4: Senate floor speech after vote: "We should be careful about opening a door into chaos in the Middle East when we cannot see the other side of it."  
   * [https://www.militarytimes.com/news/pentagon-congress/2026/03/05/senate-republicans-vote-down-legislation-to-halt-iran-war/](https://www.militarytimes.com/news/pentagon-congress/2026/03/05/senate-republicans-vote-down-legislation-to-halt-iran-war/)  
@@ -52,7 +52,7 @@ Gavin Newsom | Governor of California | Top 2028 Democratic presidential contend
   * [https://abc7news.com/post/newsom-iran-war-trump-ballroom-service-members/16078823/](https://abc7news.com/post/newsom-iran-war-trump-ballroom-service-members/16078823/)  
 * Mar 4, Pod Save America live: Newsom blamed Netanyahu directly for pushing the U.S. into war. He called for reconsidering all U.S. military aid to Israel. He suggested Israel could "appropriately" be described as an apartheid state.   
   * [https://us.cnn.com/2026/03/04/politics/gavin-newsom-israel](https://us.cnn.com/2026/03/04/politics/gavin-newsom-israel)    
-* March 5, NYT: “Asked to clarify the comments, Izzy Gardon, a spokesperson for Newsom, said the governor ‘believes in Israel’s right to exist — and its right to defend itself. Period.’ He added that ‘the governor is calling out a difficult truth,’ blaming President Donald Trump and Netanyahu for ‘taking Israel down a course that threatens the safety of Israel — a democracy and America’s closest Middle East ally — as well as Israelis and American Jews.’”  
+* Mar 5, NYT: “Asked to clarify the comments, Izzy Gardon, a spokesperson for Newsom, said the governor ‘believes in Israel’s right to exist — and its right to defend itself. Period.’ He added that ‘the governor is calling out a difficult truth,’ blaming President Donald Trump and Netanyahu for ‘taking Israel down a course that threatens the safety of Israel — a democracy and America’s closest Middle East ally — as well as Israelis and American Jews.’”  
   * [https://www.nytimes.com/2026/03/04/us/politics/gavin-newsom-israel.html](https://www.nytimes.com/2026/03/04/us/politics/gavin-newsom-israel.html) / [https://gvwire.com/2026/03/05/newsom-compares-israel-to-apartheid-state-questions-military-support/](https://gvwire.com/2026/03/05/newsom-compares-israel-to-apartheid-state-questions-military-support/)   
 * Shift: Anti-war → apartheid state → spokesman walked it back the next morning 
 
@@ -123,7 +123,7 @@ Gary Peters | Senator (D-MI)
   * [https://x.com/SenGaryPeters/status/2027765104905752588?s=20](https://x.com/SenGaryPeters/status/2027765104905752588?s=20)
 * Mar 3, Axios: On supplemental funding, Peters said:"Let's wait. Let's play one step at a time. Let's deal with the War Powers first."   
   * [https://www.axios.com/2026/03/03/senate-democrats-iran-war-funding](https://www.axios.com/2026/03/03/senate-democrats-iran-war-funding)   
-* Shift: "Most grave decision" → "let's deal with War Powers first" → hasn't ruled out funding 
+* Shift: "Unjustified forever war" → "let's deal with War Powers first" → hasn't ruled out funding
 
 Peter Aguilar | Representative (D-CA) | House Democratic Caucus Chair
 

@@ -127,13 +127,13 @@ export const narrativeSections: NarrativeSection[] = [
       {
         "id": "chris-coons",
         "name": "Chris Coons",
-        "title": "D - DE",
+        "title": "Senator (D - DE)",
         "category": "democrats-in-congress",
         "quotes": [
           {
             "phase": "note",
-            "date": "",
-            "text": "Feb 28 statement: “I am praying for the safety of our service members and the many civilians in the Middle East in harm’s way today. President Trump’s military campaign against Iran and call for regime change are the beginning of a reckless new war of choice with no clear strategy and no clear endpoint. This is not how a democracy goes to war. Less than five years after the end of the longest war in American history, the United States is once again staring down another open-ended conflict with a hostile country in the Middle East that could cost the lives of many American service members. This is not a limited, defensive strike, but rather a full-throated declaration of war that does not clearly serve the interests of or reflect the wishes of the American people.”",
+            "date": "Feb 28",
+            "text": "“I am praying for the safety of our service members and the many civilians in the Middle East in harm’s way today. President Trump’s military campaign against Iran and call for regime change are the beginning of a reckless new war of choice with no clear strategy and no clear endpoint. This is not how a democracy goes to war. Less than five years after the end of the longest war in American history, the United States is once again staring down another open-ended conflict with a hostile country in the Middle East that could cost the lives of many American service members. This is not a limited, defensive strike, but rather a full-throated declaration of war that does not clearly serve the interests of or reflect the wishes of the American people.”",
             "sourceUrl": "https://www.coons.senate.gov/news/press-releases/senator-coons-statement-on-iran-strikes/"
           },
           {
@@ -165,8 +165,8 @@ export const narrativeSections: NarrativeSection[] = [
           },
           {
             "phase": "note",
-            "date": "Mar 1, Meet the Press",
-            "text": "WELKER: If there is a war powers vote, will you be a yes?\nSEN. MARK KELLY: Well, I'm gonna have to take a close look at it. I want to hear from the White House what their strategy is going forward. I would say at this point it's rather unlikely that I would be.",
+            "date": "",
+            "text": "Mar 1, Meet the Press",
             "sourceUrl": "https://x.com/atrupar/status/2028134866454303056?s=20"
           },
           {
@@ -246,7 +246,7 @@ export const narrativeSections: NarrativeSection[] = [
             "sourceUrl": "https://www.axios.com/2026/03/03/senate-democrats-iran-war-funding"
           }
         ],
-        "shiftSummary": "\"Most grave decision\" → \"let's deal with War Powers first\" → hasn't ruled out funding"
+        "shiftSummary": "\"Unjustified forever war\" → \"let's deal with War Powers first\" → hasn't ruled out funding"
       },
       {
         "id": "peter-aguilar",
@@ -303,8 +303,8 @@ export const narrativeSections: NarrativeSection[] = [
           },
           {
             "phase": "note",
-            "date": "",
-            "text": "March 5, NYT: “Asked to clarify the comments, Izzy Gardon, a spokesperson for Newsom, said the governor ‘believes in Israel’s right to exist — and its right to defend itself. Period.’ He added that ‘the governor is calling out a difficult truth,’ blaming President Donald Trump and Netanyahu for ‘taking Israel down a course that threatens the safety of Israel — a democracy and America’s closest Middle East ally — as well as Israelis and American Jews.’”",
+            "date": "Mar 5, NYT",
+            "text": "“Asked to clarify the comments, Izzy Gardon, a spokesperson for Newsom, said the governor ‘believes in Israel’s right to exist — and its right to defend itself. Period.’ He added that ‘the governor is calling out a difficult truth,’ blaming President Donald Trump and Netanyahu for ‘taking Israel down a course that threatens the safety of Israel — a democracy and America’s closest Middle East ally — as well as Israelis and American Jews.’”",
             "sourceUrl": "https://www.nytimes.com/2026/03/04/us/politics/gavin-newsom-israel.html",
             "context": "https://gvwire.com/2026/03/05/newsom-compares-israel-to-apartheid-state-questions-military-support/"
           }
